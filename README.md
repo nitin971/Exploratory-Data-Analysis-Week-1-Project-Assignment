@@ -20,3 +20,8 @@ Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It co
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
 In this week assignment there is total 8 files out of which 4 are png plot and 4 are R code script those are used to generate these 4 png graph.
+
+
+R code files are plot1.R,plot2.R,plot3.R,plot4.R
+
+output of these scripts in png format : plot1.png,plot2.png,plot3.png,plot4.png,
